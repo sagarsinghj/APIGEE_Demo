@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="DemoCountryAPI">
+    <Basepaths>/country/all</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1502701448626</CreatedAt>
+    <CreatedBy>sagarsinghj@gmail.com</CreatedBy>
+    <Description>This is a demo API</Description>
+    <DisplayName>DemoCountryAPI</DisplayName>
+    <LastModifiedAt>1502701448626</LastModifiedAt>
+    <LastModifiedBy>sagarsinghj@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>remove-header-authorization</Policy>
+        <Policy>verify-oauth-v2-access-token</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
