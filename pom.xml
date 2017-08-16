@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>apigee</groupId>
-	<artifactId>my-country-api-v1</artifactId>
+	<artifactId>country-api-v1</artifactId>
 	<version>-</version>
 	<name>countyr-api-${deployment.suffix}v1</name>
 	<packaging>pom</packaging>
