@@ -5,6 +5,9 @@
     <PreFlow name="PreFlow">
         <Request>
             <Step>
+              <Name>SpikeArrest</Name>
+            </Step>
+            <Step>
                 <Name>verify-oauth-v2-access-token</Name>
             </Step>
             <Step>
